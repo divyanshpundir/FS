@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Experiment 6 dependencies/build files
+Exp 6/**/node_modules/
+Exp 6/**/target/
